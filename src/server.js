@@ -1,4 +1,3 @@
-const e = require("express");
 const express = require("express");
 const app = express();
 // const middleWare= require("../middleware/middleware")
